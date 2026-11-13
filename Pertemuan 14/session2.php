@@ -14,6 +14,6 @@ echo "<h2>Klik <a href='session3.php'>di sini
 } else {
 //session belum ada artinya belum login
 die ("Anda belum login! Anda tidak berhak masuk ke halaman
-ini.Silahkan login <a href='session1.php'>di sini</a>");
+ini.Silahkan login <a href='session1.php'>di sinii</a>");
 }
 ?>
